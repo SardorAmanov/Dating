@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dating</string>
+    <string name="name_example">Имя: </string>
+    <string name="age_example">Возраст: </string>
+    <string name="login_example">Логин: </string>
+    <string name="name_sardor">Имя: </string>
+    <string name="nick_example">Ник: </string>
+    <string name="age_example1">Возраст: </string>
+    <string name="city_example">Город: </string>
+    <string name="greeting_example">О себе: </string>
+    <string name="lastvisit_example">Последний визит: </string>
+</resources>
